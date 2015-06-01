@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+newsinfo
 ashdqjdjj #
 kdjfkak
 =======
